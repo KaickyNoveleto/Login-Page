@@ -43,7 +43,7 @@ main {
 
 .left-side > h1 {
     padding-left: 10%;
-    font-size: 3vw;
+    font-size: 3.5vw;
     font-weight: 200;
     color: #7788AA;
 }
@@ -161,8 +161,8 @@ main {
         width: 100%;
         height: auto;
     }
-    .login-image {
-        width: 48vw;
+    .team-work {
+        width: 60vw;
     }
     .login-card {
         margin-bottom: 10px;
